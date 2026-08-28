@@ -1,0 +1,10 @@
+{
+  "name": "Remix KisanMitra",
+  "description": "Connecting Farmers, Buyers \u0026 Logistics for a Smarter Agricultural Ecosystem with Multilingual Support (English, मराठी, हिन्दी)",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
